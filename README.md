@@ -3,7 +3,9 @@ Ability to create, read, update, and delete tasks.
 
 
 To Start a project 
-npm install node
+
+
+npm install
 
 npm start
 
