@@ -7,7 +7,12 @@ To Start a project
 
 npm install
 
-npm start
 
 npm install dotenv
+
+
+
+npm start
+
+
 
